@@ -6,6 +6,8 @@
 
 Paste a job description → upload candidate resumes → get an AI-ranked shortlist with CSV export.
 
+🚀 **Live Demo:** [https://resumerank-six.vercel.app](https://resumerank-six.vercel.app)
+
 [Features](#-features) · [Architecture](#-architecture) · [Deploy](#-deploy) · [Tech Stack](#-tech-stack)
 
 </div>
